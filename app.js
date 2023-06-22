@@ -9,7 +9,7 @@ const root = createRoot(container)
 
 
 
-const background = <img className ='background' alt="ocean" src='/images/ocean.jpg'/>
+const background = <img className ='background' alt="ocean" src='seabed.jpg'/>
 
 
 
